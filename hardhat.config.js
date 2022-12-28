@@ -28,6 +28,12 @@ module.exports = {
       accounts: ["8f02f63e53f06e210145d1fbd542ce969aa185a4d99e3cadbac315ebf29976ee"]    // private key of the account from metamask
     }
   },
+  paths: {
+    sources: "./contracts",
+    tests: "./test",
+    cache: "./cache",
+    artifacts: "./artifacts"
+  },
 };
 
 // Path: scripts/sample-script.js
