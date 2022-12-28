@@ -21,3 +21,5 @@ module.exports = {
     hardhat: {}
   }
 };
+
+// Path: scripts/sample-script.js
